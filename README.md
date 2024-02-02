@@ -2,7 +2,7 @@
 
 ### 1. npm i
 
-### 2. настроить подключение к БД в src/config/database.json (По умолчанию: development)
+### 2. настроить подключение к БД (postgres) в src/config/database.json (По умолчанию: development)
 
 ### 3. npx sequelize-cli db:migrate - для миграции DB
 
